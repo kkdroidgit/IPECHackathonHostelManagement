@@ -1,4 +1,4 @@
-# IPEC Techathlon Hostel Management
+# IPEC Techathlon Hostel Management :pencil:
 
 ### Introduction
 Hostel managment system gives various infromation about facilties like allotment of rooms,reallocation of room,no of buildings,fees details,preferences for room number,floor number,and all other important as per requirement of a student.
@@ -14,7 +14,6 @@ We make a web application for the given problem statements using Shiny and R.
 **Shiny** is an **R** package that makes it easy to build interactive web applications. Shiny combines the computational power of R with the interactivity of the modern web. 
 
 
-Developed with :heart: by **Codenators**
 
 ### Team Members
 - [Kartik Shandilya](https://github.com/kkdroidgit)
@@ -22,5 +21,7 @@ Developed with :heart: by **Codenators**
 - [Priyanka Roy](https://github.com/priyu02)
 - [Kaushal Chaudhary](https://github.com/kaushalchaudhary)
 
+
+Developed with :heart: by **Codenators**. :star: if you like the project.
 
 
