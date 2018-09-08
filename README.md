@@ -11,9 +11,16 @@ Develop a solution for hostel management. The solution should provide features f
 ### Provided Solution :grey_exclamation:
 We make a web application for the given problem statements using Shiny and R.
 
-**Shiny** is an **R** package that makes it easy to build interactive web applications. Shiny combines the computational power of R with the interactivity of the modern web. 
+**Shiny** is an **R** package that makes it easy to build interactive web applications. Shiny combines the computational power of R with the interactivity of the modern web.
 
-
+### Libraries/Programming Language/Environment Used
+1. R Programming
+2. R Studio
+3. shiny
+4. shinydashboard
+5. shinyjs
+6. plotrix
+7. dplyr
 
 ### Team Members
 - [Kartik Shandilya](https://github.com/kkdroidgit)
@@ -23,5 +30,3 @@ We make a web application for the given problem statements using Shiny and R.
 
 
 Developed with :heart: by **Codenators**. :star: if you like the project.
-
-
