@@ -1,7 +1,7 @@
 # IPEC Techathlon Hostel Management :pencil:
 
 ### Introduction
-Hostel managment system gives various infromation about facilties like allotment of rooms,reallocation of room,no of buildings,fees details,preferences for room number,floor number,and all other important as per requirement of a student.
+Hostel managment system gives various infromation about facilties like allotment of rooms,reallocation of room,no of buildings,preferences for room,floor number,and all other important details as per requirement of a student.
 
 
 ### Problem Statement :question:
@@ -12,6 +12,20 @@ Develop a solution for hostel management. The solution should provide features f
 We make a web application for the given problem statements using Shiny and R.
 
 **Shiny** is an **R** package that makes it easy to build interactive web applications. Shiny combines the computational power of R with the interactivity of the modern web.
+
+### Screenshots
+
+<img src="https://imgur.com/Thvvlea.jpg" width="350">
+<img src="https://imgur.com/PAo5Uuu.jpg" width="350">
+<img src="https://imgur.com/Cbzzeyz.jpg" width="350">
+<img src="https://imgur.com/CwtBFF7.jpg" width="350">
+<img src="https://imgur.com/ZlzqaxV.jpg" width="350">
+<img src="https://imgur.com/jVBdC3r.jpg" width="350">
+<img src="https://imgur.com/MWZ38cn.jpg" width="350">
+<img src="https://imgur.com/EnWqR7e.jpg" width="350">
+<img src="https://imgur.com/9CQyoXm.jpg" width="350">
+<img src="https://imgur.com/jsP9OY5.jpg" width="350">
+
 
 ### Libraries/Programming Language/Environment Used
 1. R Programming
