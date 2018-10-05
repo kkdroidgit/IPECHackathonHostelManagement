@@ -24,7 +24,7 @@ We make a web application for the given problem statements using Shiny and R.
 <img src="https://imgur.com/MWZ38cn.jpg" width="350">
 <img src="https://imgur.com/EnWqR7e.jpg" width="350">
 <img src="https://imgur.com/9CQyoXm.jpg" width="350">
-<img src="https://imgur.com/jsP9OY5.jpg" width="350">
+<img src="https://imgur.com/vzebCym.jpg" width="350">
 
 
 ### Libraries/Programming Language/Environment Used
@@ -44,3 +44,7 @@ We make a web application for the given problem statements using Shiny and R.
 
 
 Developed with :heart: by **Codenators**. :star: if you like the project.
+
+## License
+
+This project is licensed under the terms of the MIT license, see LICENSE.
